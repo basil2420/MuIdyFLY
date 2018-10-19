@@ -1,2 +1,0 @@
-# MuIdyFLY
-just another repository
